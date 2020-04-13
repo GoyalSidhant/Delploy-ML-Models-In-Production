@@ -9,7 +9,7 @@ We will use Flask (Python framework) as back end for our REST API, Flutter for m
 ### Flutter 
 Flutter is an open-source mobile application development framework created by Google. It is used to develop applications for Android and iOS, as well as being the primary method of creating applications for Google Fuchsia
 
-!
+
 ### Keras 
 Keras is an open-source neural-network library written in Python. It is capable of running on top of TensorFlow, Microsoft Cognitive Toolkit, Theano, or PlaidML. Designed to enable fast experimentation with deep neural networks, it focuses on being user-friendly, modular, and extensible.
 
